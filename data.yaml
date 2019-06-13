@@ -1,0 +1,133 @@
+---
+update_time: '2019.05.06'
+name: 范旭腾
+nickname: popkarding
+meta_content: 前端开发工程狮
+keywords: 前端,工作,简历,popkarding
+ga_id: 'UA-92595311-1'
+age: 27岁
+gender: 男
+school: 呼伦比尔学院
+profession: 数字媒体技术(本科)
+github: https://www.github.com/popkarding
+online: https://popkarding.github.io/Resume/
+print: https://popkarding.github.io/Resume/print.html
+apply_to_position: Web前端工程师
+description: !!md |
+  我叫范旭腾，自学web前端，后端Node.js,对技术怀有热枕,为人风趣幽默(认真脸)
+contact: # 联系方式
+  -
+    icon: fa-envelope
+    name: 邮箱
+    value: fanxuteng@126.com
+  -
+    icon: fa-qq
+    name: QQ
+    value: '969012385'
+  -
+    icon: fa-phone-square
+    name: 电话
+    value: '18500292959'
+honor: # 奖项荣誉
+tech: # 技能点
+  -
+    name: HTML/CSS
+    percentage: 80%
+  -
+    name: JavaScript
+    percentage: 70%
+  -
+    name: Vue
+    percentage: 70%
+  -
+    name: Git
+    percentage: 50%
+  -
+    name: Node.js
+    percentage: 30%
+experience: # 项目经验
+  -
+    section: 个人项目
+    project:
+      -
+        name: sell
+        date: 2019.5
+        img:
+        website:
+        source_code: https://popkarding.github.io/vueProject
+      -
+        des: !!md |
+          vue项目,基于 Vue2.x webpack 搭建的前后端分离的仿饿了么购物app的单页面应用
+      -
+        des: !!md |
+          1.首先参照官方的文档进行从vue1.0 到vue2.x的迁移,将废弃的接口替换掉例如 v-el, transition, dispatch等
+      -
+        des: !!md |
+          2.使用 axios 来代替 vue-resource 实现http请求
+      -
+        des: !!md |
+          3.使用stylus来编写css部分,应用flex布局,及stick footer,图片预占位等技术
+      -
+        des: !!md |
+          4.webpack框架的升级导致的配置项的变动,参照官方文档,和博客文章等重新进行本地服务的配置,同时本项目因需要部署到github原因,所以对请求部分代码和代码打包路径做了小的变动以符合预期
+      -
+        name: ftaobao
+        date: 2017.7
+        img:
+        website:
+        source_code: https://popkarding.github.io/fTaobao
+        des: !!md |
+          仿制的的淘宝购物页面,兼容ie6,主要解决兼容性的布局方案
+  -
+    section: 工作经历
+  -
+    exper:
+      - 
+        company: 北京慧阅信息服务有限公司
+        time: 2015.9 - 2017.8
+        desc: !!md |
+              负责网站的整体页面布局和动画设计，编写静态页面,负责网站的维护，改版和优化
+        project:
+          -
+            des: !!md |
+              参与公司的新产品网站构思，交互设计工作，并形成实际的设计方案,配合设计人员并且把控实现效果,与后端开发团队紧密配合，确保代码有效对接，优化网站前端性能
+          -
+            des: !!md |
+              页面通过标准检验,能够兼容主流浏览器
+  -
+    exper:
+      - 
+        company: 北京纵横创通科技有限责任公司
+        time: 2018.6.19 - 2019.4.20
+        desc: !!md |
+              负责公司的前端开发岗位，主要做前端方面的需求实现.
+        project:
+          -
+            des: !!md |
+              后台管理系统项目进行二次开发,分析原项目使用的ui框架的源代码后,将其核心的功能函数进行梳理,并在此之上着手开发
+          -
+            des: !!md |
+              使用vue实现个人中心,结合token,localstroge进行登录鉴权
+          -
+            des: !!md |
+              使用Vuex,eventBus,与单向数据流结合来进行数据操作
+          -
+            des: !!md |
+              采用前后端分离的开发方案,与后端约定接口,使用node的express框架进行本地服务搭建
+skill: # 技能清单
+      -
+        des: !!md |
+          精通HTML+CSS网页布局，熟练使用Photoshop进行切图相关工作,熟练使用HTML5和CSS3的新属性
+      -
+        des: !!md |
+          熟练使用JavaScript，能够脱离JQuery等类库编码，能够运用模块化，面向对象编程,了解ES6用法，能够熟练使用ES6的新增方法
+      -
+        des: !!md |
+          熟练使用在 Vue 进行组件化开发，github项目[Demo](https://github.com/popkarding/vueProject)， 使用了 ES6、7 的新语法，了解 Node.js, jQuery.
+      -
+        des: !!md |
+          熟悉 Git Webpack 等开发工具
+      -
+        des: !!md |
+          自学 node.js, 了解node后台,熟练使用AJAX技术
+---
